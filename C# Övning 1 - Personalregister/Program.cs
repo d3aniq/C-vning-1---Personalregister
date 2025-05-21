@@ -41,7 +41,7 @@
                 {
                     for (int i = 0; i < count; i++)
                     {
-                        Console.WriteLine(employees[i].name + " - " + employees[i].salary + "kr");
+                        Console.WriteLine(employees[i].name + " - " + employees[i].salary);
                     }
                 }
                 else if (choice == "3")
